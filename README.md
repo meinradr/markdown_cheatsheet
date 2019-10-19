@@ -209,6 +209,19 @@ def foo(bar):
 </p>
 </details>
 
+<details><summary> IMAGE </summary>
+<p>
+
+```markdown
+![wikipedia logo](https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg)
+```
+
+![wikipedia logo](https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg)
+
+</p>
+</details>
+
+
 <details><summary>  </summary>
 <p>
 
@@ -218,4 +231,22 @@ def foo(bar):
 
 </p>
 </details>
+
+
+<details><summary>  </summary>
+<p>
+
+```markdown
+
+```
+
+</p>
+</details>
+
+### Sources
+
+[markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+[github markdown specs](https://github.github.com/gfm/)
+[github mastering markdown](https://guides.github.com/features/mastering-markdown/)
+[github markdown cheat sheet pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
