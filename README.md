@@ -222,12 +222,13 @@ def foo(bar):
 </details>
 
 
-<details><summary>  </summary>
+<details><summary> LINK </summary>
 <p>
 
 ```markdown
-
+[www.wikipadia.org](http://www.wikipedia.org)
 ```
+[www.wikipadia.org](http://www.wikipedia.org)
 
 </p>
 </details>
