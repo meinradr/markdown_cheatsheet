@@ -248,7 +248,7 @@ def foo(bar):
 </p>
 </details>
 
-<details><summary>  </summary>
+<details><summary> TABLE </summary>
 <p>
 
 ```markdown
