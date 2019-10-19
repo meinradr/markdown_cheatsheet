@@ -295,7 +295,7 @@ Content in the first column | Content in the second column
 
 \*literal asterisks\*
 
-Markdown provides backslash escapes for the following characters:
+Markdown provides backslash escapes for the following characters:  
 \\    backslash  
 \`   backtick  
 \*    asterisk  
