@@ -221,6 +221,16 @@ def foo(bar):
   print(bar)
 ```
 
+---
+
+```markdown
+    def foo(bar):
+      print(bar)
+```
+
+    def foo(bar):
+      print(bar)
+
 </p>
 </details>
 
@@ -347,5 +357,6 @@ Markdown provides backslash escapes for the following characters:
 [markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)  
 [github markdown specs](https://github.github.com/gfm/)  
 [github mastering markdown](https://guides.github.com/features/mastering-markdown/)  
-[github markdown cheat sheet pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
+[github markdown cheat sheet pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[original markdown spec](https://daringfireball.net/projects/markdown/)
 
