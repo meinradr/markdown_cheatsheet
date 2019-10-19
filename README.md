@@ -1,10 +1,6 @@
 # markdown_cheatsheet
 
-## headers
-<details><summary>
-  # CLICK ME
-  
-  </summary>
+<details><summary> HEADERS </summary>
 <p>
   
 ```markdown
