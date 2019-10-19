@@ -268,12 +268,17 @@ Content in the first column | Content in the second column
 
 
 
-<details><summary>  </summary>
+<details><summary> EMOJI </summary>
 <p>
 
 ```markdown
-
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat
 ```
+
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat
+
+[https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+[www.emoji-cheat-sheet.com](www.emoji-cheat-sheet.com)
 
 </p>
 </details>
