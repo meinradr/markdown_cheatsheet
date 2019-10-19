@@ -286,7 +286,53 @@ Content in the first column | Content in the second column
 </details>
 
 
-<details><summary>  </summary>
+<details><summary> BACKSLASH ESCAPE </summary>
+<p>
+
+```markdown
+\*literal asterisks\*
+```
+
+\*literal asterisks\*
+
+Markdown provides backslash escapes for the following characters:
+\\    backslash  
+\`   backtick  
+\*    asterisk  
+\_    underscore  
+\{\}   curly braces  
+\[\]   square brackets  
+\(\)   parentheses  
+\#    hash mark  
+\+    plus sign  
+\-    minus sign (hyphen)  
+\.     dot  
+\!     exclamation mark  
+
+</p>
+</details>
+
+<details><summary> </summary>
+<p>
+
+```markdown
+
+```
+
+</p>
+</details>
+
+<details><summary> </summary>
+<p>
+
+```markdown
+
+```
+
+</p>
+</details>
+
+<details><summary> </summary>
 <p>
 
 ```markdown
