@@ -2,7 +2,6 @@
 
 ## headers
 <details><summary>
-  
   # CLICK ME
   
   </summary>
