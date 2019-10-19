@@ -209,7 +209,7 @@ the `print()` functions prints text
 #### block code
 
 ````markdown
-this is a Python function:
+code sourounded with at least 3 backticks, for nested code different amount of backticks may be used:
 ```python
 def foo(bar):
   print(bar)
@@ -224,6 +224,7 @@ def foo(bar):
 ---
 
 ```markdown
+with 4 whitespaces at the beginning:
     def foo(bar):
       print(bar)
 ```
