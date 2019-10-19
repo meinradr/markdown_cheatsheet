@@ -178,11 +178,32 @@ As Kanye West said:
 </details>
 
 
-<details><summary>  </summary>
+<details><summary> CODE </summary>
 <p>
+  
+#### inline code
 
 ```markdown
+the `print()` functions prints thext
+```
 
+the `print()` functions prints thext
+
+---
+
+#### block code
+
+```markdown
+this is a Python function:
+```python
+def foo(bar):
+  print(bar)
+```
+```
+
+```python
+def foo(bar):
+  print(bar)
 ```
 
 </p>
