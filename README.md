@@ -193,13 +193,13 @@ the `print()` functions prints text
 
 #### block code
 
-```markdown
+````markdown
 this is a Python function:
-\```python
+```python
 def foo(bar):
   print(bar)
-\```
 ```
+````
 
 ```python
 def foo(bar):
