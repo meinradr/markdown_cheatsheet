@@ -184,10 +184,10 @@ As Kanye West said:
 #### inline code
 
 ```markdown
-the `print()` functions prints thext
+the `print()` functions prints text
 ```
 
-the `print()` functions prints thext
+the `print()` functions prints text
 
 ---
 
@@ -195,10 +195,10 @@ the `print()` functions prints thext
 
 ```markdown
 this is a Python function:
-```python
+\```python
 def foo(bar):
   print(bar)
-```
+\```
 ```
 
 ```python
