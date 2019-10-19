@@ -45,6 +45,27 @@ _**or use both together**_
 
 <details><summary> LINEBREAK </summary>
 <p>
+  
+```
+Hello  (<-- no spaces)
+World
+```
+
+Hello
+World
+
+---
+ 
+```
+Hello  (<-- one spaces)
+World
+```
+
+Hello 
+World
+
+---
+
 ```
 Hello  (<-- two spaces)
 World
