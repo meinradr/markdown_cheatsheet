@@ -139,12 +139,39 @@ world
 </p>
 </details>
 
-<details><summary>  </summary>
+<details><summary> LISTS </summary>
 <p>
 
-```markdown
+#### Unordered
 
+```markdown
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 ```
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+---
+
+#### Ordered
+
+```markdown
+1. Item 1
+1. Item 2
+  1. Item 2a
+  1. Item 2b
+```
+
+1. Item 1
+1. Item 2
+  1. Item 2a
+  1. Item 2b
+  
 
 </p>
 </details>
