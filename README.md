@@ -1,7 +1,11 @@
 # markdown_cheatsheet
 
 ## headers
-<details><summary># CLICK ME</summary>
+<details><summary>
+  
+  # CLICK ME
+  
+  </summary>
 <p>
   
 ```markdown
