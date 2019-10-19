@@ -125,16 +125,16 @@ world
 </p>
 </details>
 
-<details><summary>  </summary>
+<details><summary> BLOCKQUOTES </summary>
 <p>
 
-```markdown
+As Kanye West said:
 
-```
+> We're living the future so
+> the present is our past.
 
 </p>
 </details>
-
 
 </p>
 </details>
