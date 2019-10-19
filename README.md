@@ -186,9 +186,6 @@ As Kanye West said:
 </details>
 
 
-</p>
-</details>
-
 <details><summary>  </summary>
 <p>
 
