@@ -241,9 +241,11 @@ def foo(bar):
 <p>
 
 ```markdown
-[www.wikipadia.org](http://www.wikipedia.org)
+[www.wikipadia.org](http://www.wikipedia.org)  
+http://www.github.com/
 ```
-[www.wikipadia.org](http://www.wikipedia.org)
+[www.wikipadia.org](http://www.wikipedia.org)  
+http://www.github.com/
 
 </p>
 </details>
@@ -272,7 +274,7 @@ Content in the first column | Content in the second column
 <p>
 
 ```markdown
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 ```
 
 :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat
