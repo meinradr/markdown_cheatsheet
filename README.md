@@ -30,7 +30,7 @@ _This will also be italic_
 **This text will be bold**  
 __This will also be bold__  
 *You **can** combine them*  
-_**use both together**_
+_**or use both together**_
 ```
 
 *This text will be italic*  
@@ -38,7 +38,61 @@ _This will also be italic_
 **This text will be bold**  
 __This will also be bold__  
 *You **can** combine them*  
-_**use both together**_
+_**or use both together**_
 
 </p>
 </details>
+
+<details><summary>  </summary>
+<p>
+
+```markdown
+
+```
+
+</p>
+</details>
+
+
+
+</p>
+</details>
+
+<details><summary>  </summary>
+<p>
+
+```markdown
+
+```
+
+</p>
+</details>
+
+
+</p>
+</details>
+
+<details><summary>  </summary>
+<p>
+
+```markdown
+
+```
+
+</p>
+</details>
+
+
+</p>
+</details>
+
+<details><summary>  </summary>
+<p>
+
+```markdown
+
+```
+
+</p>
+</details>
+
