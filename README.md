@@ -43,12 +43,58 @@ _**or use both together**_
 </p>
 </details>
 
-<details><summary>  </summary>
+<details><summary> LINEBREAK </summary>
 <p>
+```
+Hello  (<-- two spaces)
+World
+```
 
-```markdown
+Hello  
+World
+
+---
 
 ```
+Hello
+World
+```
+
+Hello
+World
+
+---
+
+```
+Hello<br/>
+World
+```
+
+Hello<br/>
+World
+
+---
+
+```
+Hello
+
+World
+```
+
+Hello
+
+World
+
+---
+
+```
+hello\
+world
+```
+
+hello\
+world
+
 
 </p>
 </details>
